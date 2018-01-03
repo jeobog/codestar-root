@@ -1,4 +1,4 @@
-package com.bg.cloud.domain.dto;
+package com.bg.cloud.controller.dto;
 
 /**
  * Basic POJO to contain a message.
